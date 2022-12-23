@@ -1,1 +1,0 @@
-user_withdraw_amount
